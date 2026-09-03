@@ -3,4 +3,4 @@
 
 
 
-## 🌐 Portfolio **[View My Portfolio](https://mrttanzim76-cmd.github.io/portfolio/)**
+## 🌐 **[View My Portfolio](https://mrttanzim76-cmd.github.io/portfolio/)**
