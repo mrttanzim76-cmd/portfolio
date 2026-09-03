@@ -2,49 +2,61 @@
 
 Welcome to my personal portfolio website.
 
-## About Me
+## 👨‍💻 About Me
 
-I am Md. Mohibur Rahman Tanzim, an Information and Communication Engineering student at Bangladesh University of Professionals (BUP).
+I am **Md. Mohibur Rahman Tanzim**, an **Information and Communication Engineering (ICE)** student at **Bangladesh University of Professionals (BUP)**.
 
 I am interested in programming, software development, web development, and modern technology. I enjoy learning through practical projects and building useful applications.
 
-## Skills
+## 🛠️ Skills
 
+### Programming
 - C
 - C++
 - Java
 - Python
+- Assembly
+- 8086
+- EMU8086
+
+### Web Development
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
-- Assembly
-- 8086
-- EMU8086
+
+### Tools
 - GitHub
 - VS Code
 - Figma
 
-## Projects
+### Frameworks
+- Django
+
+## 🚀 Projects
 
 ### SkyLedger Airline Reservation System
-A Django-based airline reservation system featuring flight search, booking, online check-in, flight tracking, price maps, e-ticket PDF generation and QR verification.
+A Django-based airline reservation system featuring flight search, booking, online check-in, flight tracking, price maps, e-ticket PDF generation, and QR verification.
 
 ### Travel Explorer BD
-A Bangladesh travel exploration website featuring destinations, travel packages, gallery and contact pages.
+A Bangladesh travel exploration website featuring destinations, travel packages, gallery, and contact pages.
 
 ### TechSphere
-A technology-focused multi-page website covering technologies, products, innovation and related information.
+A technology-focused multi-page website covering technologies, products, innovation, and related information.
 
 ### Student Profile Portal
 A student profile portal website built using HTML and CSS.
 
-## Technologies
+## 💻 Technologies
 
-HTML • CSS • JavaScript • Bootstrap • Python • Django • Java • C • C++
+`HTML` `CSS` `JavaScript` `Bootstrap` `Python` `Django` `Java` `C` `C++`
 
-## Connect With Me
+## 🌐 Portfolio
 
-- GitHub: https://github.com/mrttanzim76-cmd
-- LinkedIn: https://www.linkedin.com/in/md-mohibur-rahman-tanzim-538a29342/
-- Facebook: https://www.facebook.com/mr.tanzim90
+**[View My Portfolio](https://mrttanzim76-cmd.github.io/portfolio/)**
+
+## 🔗 Connect With Me
+
+- **GitHub:** [mrttanzim76-cmd](https://github.com/mrttanzim76-cmd)
+- **LinkedIn:** [Md. Mohibur Rahman Tanzim](https://www.linkedin.com/in/md-mohibur-rahman-tanzim-538a29342/)
+- **Facebook:** [mr.tanzim90](https://www.facebook.com/mr.tanzim90)
